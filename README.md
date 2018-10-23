@@ -1,0 +1,2 @@
+# AltCord
+AltCord bot
